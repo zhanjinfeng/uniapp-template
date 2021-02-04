@@ -1,19 +1,23 @@
-# rent-house
+# uniapp-template
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 介绍
+
+> 该项目为 uniapp 模板，使用 eslint+prettier+ts 进行搭建。
